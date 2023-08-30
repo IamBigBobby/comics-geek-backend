@@ -1,24 +1,4 @@
-# README
+# Comics geek
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+The project was created based on the tutorial [https://medium.com/swlh/beginners-guide-to-building-a-rails-api-7b22aa7ec2fb]  
+Here i'm exploring the possibilities of Ruby framework Ruby on Rails
